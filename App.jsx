@@ -21,8 +21,10 @@ const App = () => {
         // text={entry.text}
 
         //To map over the data for entire data set
+        // entry={entry}
 
-        entry={entry}
+        // Other way to do is using spread operator
+        {...entry}
 
 
       />
