@@ -1,5 +1,5 @@
 import React from 'react'
-import globe from '../globe.png'
+import globe from '../images/globe.png'
 
 const Header = () => {
   return (
